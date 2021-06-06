@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: myfirstagent
+pool: Default
   #vmImage: ubuntu-latest
 
 variables:
